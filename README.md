@@ -110,9 +110,9 @@ Any question you can contact with us
 
 Author:
 
-| leader                              | member             | member              | member           |
-|-------------------------------------|--------------------|---------------------|------------------|
-| Võ Thương Trường Nhơn(Captain)(UET) | Phạm Đức Tài(HUST) | Phạm Hồng Thái(KMA) | Lê Ngọc Giàu(SGU)|
+| leader                      | member             | member              | member           |
+|-----------------------------|--------------------|---------------------|------------------|
+| Võ Thương Trường Nhơn(UET)  | Phạm Đức Tài(HUST) | Phạm Hồng Thái(KMA) | Lê Ngọc Giàu(SGU)|
 
 **## 👊 Ủng hộ Binhdinhfood**
 
